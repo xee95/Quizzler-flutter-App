@@ -1,16 +1,27 @@
-# quizzler_flutter
+# Quizzler ❓
 
-A new Flutter project.
+## My Project
+Welcome to Quizzler, a project where I expanded my programming knowledge and skills while creating a dynamic quiz app.
 
-## Getting Started
+## What I Created
+With Quizzler, I developed a quiz app designed to test general knowledge. As one of the most popular app categories, this project allowed me to craft my own quizzes for others to enjoy!
 
-This project is a starting point for a Flutter application.
+<img src=
+"https://github.com/xee95/Quizzler-flutter-App/assets/35934083/d54062f9-fcb1-429d-8418-2334d8b09d9d" width="200" height="500">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What I Learned
+Throughout this project, I learned valuable lessons, including:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Organizing code into separate classes to enhance modularity.
+- Grasping the fundamentals of Dart classes and objects.
+- Utilizing class constructors for efficient code structuring.
+- Enhancing code readability by extracting widgets.
+- Managing variables with private and public modifiers in Dart.
+- Harnessing the power of Dart lists for efficient data management.
+- Understanding the distinctions between var, const, and final.
+
+Quizzler represents not just an app but a significant step in my learning journey. It's a testament to my growing programming proficiency, paving the way for more exciting projects! 🧠📚🚀
+
+## Tags
+#Flutter #MobileAppDevelopment #QuizApp #Programming #DartProgramming #AppDevelopment #ObjectOrientedProgramming
