@@ -7,7 +7,7 @@ Welcome to Quizzler, a project where I expanded my programming knowledge and ski
 With Quizzler, I developed a quiz app designed to test general knowledge. As one of the most popular app categories, this project allowed me to craft my own quizzes for others to enjoy!
 
 <img src=
-"https://github.com/xee95/Quizzler-flutter-App/assets/35934083/d54062f9-fcb1-429d-8418-2334d8b09d9d" width="200" height="500">
+"https://github.com/xee95/Quizzler-flutter-App/assets/35934083/bead4190-345c-4697-84a0-7ef4e4e77862" width="200" height="500">
 
 
 ## What I Learned
